@@ -1,0 +1,7 @@
+Nama : Muhammad Hamzah Ruslan
+
+NIM : 25106050116
+
+    Figma adalah  aplikasi desain antarmuka (User Interface/UI) dan prototipe berbasis cloud yang berfokus pada kolaborasi waktu nyata (real-time).
+    Secara sederhana, Figma adalah alat yang digunakan oleh desainer, pengembang, dan tim produk untuk merancang, berbagi, menguji, dan membuat prototipe desain untuk berbagai produk digital, seperti:website,mobile apps
+
