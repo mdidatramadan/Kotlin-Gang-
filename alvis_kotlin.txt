@@ -1,0 +1,7 @@
+Nama: Alvis Sidiq Alfallah
+NIM : 25106050069
+
+Figma adalah alat desain UI/UX berbasis cloud
+ dan kolaboratif yang memungkinkan desainer untuk membuat,
+  memprototipe, dan berkolaborasi pada desain digital seperti aplikasi dan
+ situs web secara real-time melalui peramban web.
