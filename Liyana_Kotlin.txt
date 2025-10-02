@@ -1,0 +1,8 @@
+Nama : Muliana Piningit
+Nim : 25106050097
+
+    Figma adalah alat desain antarmuka berbasis web yang 
+memungkinkan kolaborasi real-time antar pengguna untuk membuat 
+prototipe, desain UI/UX, dan ilustrasi digital. Karena berbasis 
+cloud, Figma memudahkan tim untuk bekerja bersama tanpa perlu 
+instalasi software tambahan.
