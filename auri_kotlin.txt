@@ -1,0 +1,9 @@
+Nama: Khairani Ma'arifatullah
+NIM: 25106050002
+
+Figma adalah aplikasi desain kolaboratif berbasis cloud yang 
+digunakan untuk merancang antarmuka pengguna (UI) dan prototipe
+ aplikasi, serta membuat diagram dan papan tulis daring (FigJam).
+  Aplikasi ini memungkinkan tim bekerja sama secara real-time dalam
+   satu berkas desain, mempermudah kolaborasi, iterasi desain, 
+   dan pengembangan produk digital. 
